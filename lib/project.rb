@@ -1,4 +1,4 @@
-require_relative './backer'
+
 
 class Project
   attr_accessor :title
