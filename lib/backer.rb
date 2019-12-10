@@ -20,7 +20,7 @@ otto = Backer.new("Otto")
 charlotte = Backer.new("Charlotte")
 indy = Backer.new("Indy")
 
-launcher = Project.new("Launchers")
+launcher = Project.new("Launcher Space")
 
 
 binding.pry
