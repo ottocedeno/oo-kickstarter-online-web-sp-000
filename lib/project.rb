@@ -1,4 +1,4 @@
-require_relative 'backer.rb'
+require_relative './backer'
 require 'pry'
 
 class Project
