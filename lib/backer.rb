@@ -18,6 +18,7 @@ end
 
 otto = Backer.new("Otto")
 charlotte = Backer.new("Charlotte")
+indy = Backer.new("Indy")
 
 
 binding.pry
