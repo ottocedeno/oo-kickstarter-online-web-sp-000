@@ -1,3 +1,5 @@
+require_relative 'project.rb'
+
 class Backer
   attr_accessor :name
   attr_reader :backed_projects
