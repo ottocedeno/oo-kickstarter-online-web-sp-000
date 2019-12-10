@@ -1,5 +1,5 @@
-require_relative '../lib/project.rb'
-require 'pry'
+# require_relative '../lib/project.rb'
+# require 'pry'
 
 class Backer
   attr_accessor :name
