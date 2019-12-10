@@ -15,12 +15,3 @@ class Backer
     project.backers << self
   end
 end
-
-otto = Backer.new("Otto")
-charlotte = Backer.new("Charlotte")
-indy = Backer.new("Indy")
-
-launcher = Project.new("Launcher Space")
-twice = Project.new("Twice")
-
-binding.pry
