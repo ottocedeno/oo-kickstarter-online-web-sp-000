@@ -1,5 +1,4 @@
 require_relative './backer'
-require 'pry'
 
 class Project
   attr_accessor :title
@@ -9,5 +8,5 @@ class Project
     @title = title
     @backers = []
   end
-  
+
 end
