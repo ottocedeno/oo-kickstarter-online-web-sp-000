@@ -17,6 +17,7 @@ class Backer
 end
 
 otto = Backer.new("Otto")
+charlotte = Backer.new("Charlotte")
 
 
 binding.pry
